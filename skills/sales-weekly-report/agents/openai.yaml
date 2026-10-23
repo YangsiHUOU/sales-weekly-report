@@ -1,0 +1,5 @@
+interface:
+  display_name: "销售周报 Agent"
+  short_description: "读取 Excel 与素材，检索本周深圳资讯并生成红色销售周报长图"
+  brand_color: "#C8102E"
+  default_prompt: "使用 $sales-weekly-report 根据本周 Excel、人物材料和公司动态素材，检索本周深圳行业动态并生成销售周报长图。"

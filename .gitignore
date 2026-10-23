@@ -1,0 +1,6 @@
+node_modules/
+outputs/
+work/
+*.audit.json
+.DS_Store
+__pycache__/
